@@ -1,0 +1,20 @@
+@startuml
+:Start modifying employee function;
+if (employee != null) then (Yes)
+  :Initialize i = 0;
+
+  while (while i < size of employee list) is (condition)
+  ->Yes;
+    if (employee id from list matches given employee id) then (Yes)
+      :Set newFunction to employee;
+    else (No)
+    endif
+    :Increment i;
+    endwhile (No)
+else (No)
+  :Employee is null, do nothing;
+endif
+:End modifying employee function;
+stop
+
+@enduml

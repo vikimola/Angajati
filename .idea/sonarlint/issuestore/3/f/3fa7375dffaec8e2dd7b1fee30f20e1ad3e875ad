@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßïœÕÿÿÿÿÿ
+h
+java:S1659"LDeclare "hasSameLastName" and all following declarations on a separate line.(©ßŒÔüÿÿÿÿ
+L
+java:S6397˜"5Replace this character class by the character itself.(ŠÜ§¨
+2
+java:S2153¬"Remove the boxing of "line".(İİüQ
+A
+java:S1068"&Remove this unused "ID" private field.(à“¬òøÿÿÿÿ
+M
+java:S1068#"+Remove this unused "address" private field.(÷§ùÿÿÿÿ8”Ò¿è²1
