@@ -1,7 +1,8 @@
-package AngajatiApp.repository;
+package AngajatiApp;
 
 import AngajatiApp.controller.DidacticFunction;
 import AngajatiApp.model.Employee;
+import AngajatiApp.repository.EmployeeMock;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
