@@ -1,4 +1,4 @@
-package AngajatiApp;
+package AngajatiApp.repository;
 
 import AngajatiApp.controller.DidacticFunction;
 import AngajatiApp.model.Employee;
