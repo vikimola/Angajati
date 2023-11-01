@@ -13,7 +13,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class EmployeeMockTest {
 
     EmployeeMock employeeMock = new EmployeeMock();
-
     @BeforeEach
     void setUp() {
     }
